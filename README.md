@@ -10,3 +10,5 @@ Link to the Dataset: https://www.kaggle.com/mathchi/churn-for-bank-customers
 Project objective –
 Identifying key factors that cause customer churn by descriptive and predictive analytics
 Recommending customer-centric ideas to reduce churn rate by building Logistic Regression Model
+
+Please visit the Business Analytics Consulting Project ppt to find full report and walkthrough of analysis, inights and recommedations.
